@@ -1,0 +1,17 @@
+POST /add-like HTTP/1.1
+Accept:           text/html, */*; q=0.01
+Accept-Encoding:  gzip, deflate
+Accept-Language:  ru,en-US;q=0.9,en;q=0.8
+Connection:       keep-alive
+Content-Length:   12
+Content-Type:     application/x-www-form-urlencoded; charset=UTF-8
+Cookie:           XSRF-TOKEN=eyJpdiI6InVQRXF4R3I1anVxRmx2NHAvQXdaaEE9PSIsInZhbHVlIjoiMjdaREtIMHdkRTBJbkQ5cHJxN1EyTUlSTnZSay9zM2U1VkdmMldKSkhGbEJ1cWJ3S2lIdjNkeEpFUXNCYk03SnNWeWsxL2w5UitDV3lUNFVUd3ZiL3RreC9JMFdVbnhjenA5NlB2ckFZRnE2M1RNVDl0a0h0V1h3eFQrVlVlekciLCJtYWMiOiJiOThhOWJmYWEwYzAwOWNkNjE0YWM0N2RhNzhmNzIzMDYxNTZkZGVlMmRjMmZmOTYwN2YyNTJlOGIyYWM1ZTI4IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IktXRWJZV2xsUjRBY3QrMEx0ZHlSS1E9PSIsInZhbHVlIjoiL2xCc1k1c3J1bzU0eVd2NS85TnBvK055MjRMQ0hteHhJVU9OWk5WVFE3UElsdnlzMEZSYm1heXk0Rm93YWRtRDcrT2VNc2JJNUFNa1g5dlVJKzRoUFU5eG9CTE45cFQxamxxSElCWDlTeUJMSnROYkFCaStjOEIvTUdGbWo5RDYiLCJtYWMiOiI5MmYwYzdhMGEwYzZhYTU3NzI1OWRkNWJhMzE1ZDZmYmRkMTA1OTYyYTQ0NTk5M2Y4NjgyOTBhMDg3ZmFjMGE0IiwidGFnIjoiIn0%3D
+Host:             my-domain.com
+Origin:           http://my-domain.com
+Referer:          http://my-domain.com/
+User-Agent:       Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+X-Csrf-Token:     rU6LeGj6Yl3fQEaGQtd1gtxX4fi6bIkLlnZf9UA7
+X-Requested-With: XMLHttpRequest
+Cookie: XSRF-TOKEN=rU6LeGj6Yl3fQEaGQtd1gtxX4fi6bIkLlnZf9UA7; laravel_session=sz97yMzJehLXpahizsp4rRxcwJHYaFX9v3DWfYlO
+
+id=1&like=-1
